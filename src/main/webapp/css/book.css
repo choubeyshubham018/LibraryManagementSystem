@@ -1,0 +1,20 @@
+@charset "ISO-8859-1";
+
+body{
+
+	background-image: url("https://images.pexels.com/photos/2328869/pexels-photo-2328869.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-size: 80%;
+}
+.book{
+	
+	
+	margin-top: 25px;
+}
+label{
+	background-color: white;
+}
+
+a{
+	text-decoration: none;
+	color: #2C4BEF;
+}

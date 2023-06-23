@@ -1,0 +1,31 @@
+@charset "ISO-8859-1";
+body{
+	background-repeat:no-repeat;
+	text-align: center;
+    background-image:  url("https://wallpapercave.com/wp/wp10394956.jpg")  ;
+	background-attachment: fixed;
+	background-size:cover;
+	background-position: center;
+	
+}
+
+#heading{
+	
+	background-color:#ffcc00 ;
+	margin-top: 50px;
+}
+.head{
+	
+	text-align: right;
+	margin-right: 30px;
+}
+label{
+	
+	margin-left: 50px;
+	
+}
+a{
+
+	text-decoration: none;
+	color: white;
+}

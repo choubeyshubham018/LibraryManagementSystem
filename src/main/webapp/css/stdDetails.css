@@ -1,0 +1,56 @@
+@charset "ISO-8859-1";
+
+body{
+    
+	background-image: url("https://images.pexels.com/photos/1034008/pexels-photo-1034008.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-repeat:no-repeat;
+    background-size: cover; 	
+    background-position: center;
+    background-attachment: fixed;
+}
+
+#head{
+	background-color: #EEAE0F;
+}
+
+#head2{
+	background-color:#ffcc00;
+	color:#04940B;
+}
+
+.footer{
+	background-color:#1A5502;
+	position:absolute; right: 0;left:0;bottom: 0; margin: 0;
+	padding: 5px;
+}
+a{
+	color: blue;
+}
+
+#head5{
+	text-align: center;
+	color: white;
+	margin: 0;
+	padding: 0;
+}
+
+b{
+	background-color: #993333;
+}
+.headTag{
+	text-align: center;
+	margin-top: 2%;
+}
+
+label{
+	text-align: center; 
+	background-color:#993333;
+}
+.std{
+	margin-top: 50px;
+
+}
+a{
+	text-decoration: none;
+	color: white;
+}
